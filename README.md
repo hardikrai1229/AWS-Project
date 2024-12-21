@@ -66,6 +66,6 @@ Before setting up the project, make sure you have the following:
   ```bash
   scp -i "path-to-your-key.pem" index.html ubuntu@<EC2-public-IP>:/var/www/html/
 
-# aws stage URL- https://ehqrl4j558.execute-api.ap-southeast-2.amazonaws.com/dev
+
 
 
